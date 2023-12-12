@@ -15,6 +15,14 @@
     {
       "question": "hi",
       "answer": "Hello, how can i help you?"
+    },
+    {
+      "question": "can i make a reservation?",
+      "answer": "sorry we are currently not able to make reservations."
+    },
+    {
+      "question": "",
+      "answer": ""
     }
   ]
 }
